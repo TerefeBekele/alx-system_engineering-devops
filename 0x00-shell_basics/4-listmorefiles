@@ -1,6 +1,0 @@
-ls -la > 4-listmorefiles
-ls
-
-
-
-echo ls -la
